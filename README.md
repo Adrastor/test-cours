@@ -8,5 +8,9 @@ Pour créer une copie : <br>
 ````
 get clone <url>
 copier : shift + insert
+git status
+git add
+git commit -m "ajout"
+git push
 ````
 
